@@ -31,7 +31,7 @@ Data sent to Unity Gaming Services is encrypted in transit (TLS).
 
 ## 6. Children
 
-BaKuCity is not directed at children. It contains violence and is intended for players aged 16 and over.
+BaKuCity is not directed at children. It contains violence and is intended for players aged 18 and over.
 
 ## 7. Deleting your data
 
@@ -54,6 +54,6 @@ Bu siyasət **BaKuCity** mobil oyununa (Android paketi `com.elman.bakucity`) aid
 3. **Toplamadıqlarımız.** Məkan, kontaktlar, foto, video, fayllar, ödəniş məlumatı və reklam identifikatoru toplanmır. Oyunda reklam və real pulla alış yoxdur.
 4. **Üçüncü tərəflər.** Online xidmətləri Unity Technologies təmin edir: https://unity.com/legal/privacy-policy. Məlumatlarınız satılmır və başqa heç kimlə paylaşılmır.
 5. **Təhlükəsizlik.** Unity xidmətlərinə göndərilən məlumat ötürülərkən şifrələnir (TLS).
-6. **Uşaqlar.** Oyun uşaqlar üçün nəzərdə tutulmayıb; zorakılıq səhnələri var, 16 yaş və yuxarı üçündür.
+6. **Uşaqlar.** Oyun uşaqlar üçün nəzərdə tutulmayıb; zorakılıq səhnələri var, 18 yaş və yuxarı üçündür.
 7. **Silinmə.** Oyunu silmək cihazdakı bütün məlumatı silir. Anonim identifikatorun silinməsi üçün 1-ci bənddəki linklə müraciət edin.
 8. **Dəyişikliklər.** Bu səhifədə yeni tarixlə dərc olunur.
